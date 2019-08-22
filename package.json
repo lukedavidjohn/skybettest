@@ -1,0 +1,25 @@
+{
+  "name": "skybettest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukedavidjohn/skybettest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukedavidjohn/skybettest/issues"
+  },
+  "homepage": "https://github.com/lukedavidjohn/skybettest#readme",
+  "dependencies": {
+    "csv-parser": "^2.3.0",
+    "csvtojson": "^2.0.10",
+    "jquery-csv": "^1.0.5"
+  }
+}
